@@ -19,7 +19,7 @@ import groovy.xml.MarkupBuilder
 import java.text.DecimalFormat
 
 plugins {
-    id 'com.github.ben-manes.versions' version '0.20.0'
+    id 'com.github.ben-manes.versions' version '0.24.0'
     id 'co.riiid.gradle' version '0.4.2'
 }
 
